@@ -7,6 +7,6 @@ def positivoOuNao(vetor, value):
         vetor.append(0)
     print(vetor)
 
-for i in range (0,4):
+for i in range (0,6):
     value = int(input('Digite um valor: '))
     positivoOuNao(vetor, value)
